@@ -1,1 +1,1 @@
-Push dari Komputer A
+Ini push dari Komputer A
