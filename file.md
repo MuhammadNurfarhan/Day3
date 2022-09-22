@@ -1,2 +1,2 @@
 Ini push dari Komputer A
-Ini push dari Komputer B
+Ini push dari Komputer B ya
